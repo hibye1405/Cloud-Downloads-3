@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-5537",
+  "folder": "Movies__AnimeXin.dev_wdqk_s5_ep_7_eng_20260529065450_0d1085",
+  "base_name": "Movies__AnimeXin.dev_wdqk_s5_ep_7_eng_20260529065450_0d1085.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/hibye1405/Cloud-Downloads-3/releases/tag/co-releases-v1-5537",
+  "files": [
+    {
+      "name": "Movies__AnimeXin.dev_wdqk_s5_ep_7_eng_20260529065450_0d1085.mp4",
+      "url": "https://github.com/hibye1405/Cloud-Downloads-3/releases/download/co-releases-v1-5537/Movies__AnimeXin.dev_wdqk_s5_ep_7_eng_20260529065450_0d1085.mp4",
+      "api_url": "https://api.github.com/repos/hibye1405/Cloud-Downloads-3/releases/assets/432797072",
+      "id": 432797072,
+      "size": 793600251,
+      "download_count": 0
+    }
+  ]
+}
