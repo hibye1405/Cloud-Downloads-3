@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-5191",
+  "folder": "Movies__AnimeXin.dev_herding_ep_85_eng_20260531073158_399878",
+  "base_name": "Movies__AnimeXin.dev_herding_ep_85_eng_20260531073158_399878.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/hibye1405/Cloud-Downloads-3/releases/tag/co-releases-v1-5191",
+  "files": [
+    {
+      "name": "Movies__AnimeXin.dev_herding_ep_85_eng_20260531073158_399878.mp4",
+      "url": "https://github.com/hibye1405/Cloud-Downloads-3/releases/download/co-releases-v1-5191/Movies__AnimeXin.dev_herding_ep_85_eng_20260531073158_399878.mp4",
+      "api_url": "https://api.github.com/repos/hibye1405/Cloud-Downloads-3/releases/assets/434312674",
+      "id": 434312674,
+      "size": 732750424,
+      "download_count": 0
+    }
+  ]
+}
