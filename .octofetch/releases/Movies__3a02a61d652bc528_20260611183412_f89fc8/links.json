@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-2173",
+  "folder": "Movies__3a02a61d652bc528_20260611183412_f89fc8",
+  "base_name": "Movies__3a02a61d652bc528_20260611183412_f89fc8.bin",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/hibye1405/Cloud-Downloads-3/releases/tag/co-releases-v1-2173",
+  "files": [
+    {
+      "name": "Movies__3a02a61d652bc528_20260611183412_f89fc8.bin",
+      "url": "https://github.com/hibye1405/Cloud-Downloads-3/releases/download/co-releases-v1-2173/Movies__3a02a61d652bc528_20260611183412_f89fc8.bin",
+      "api_url": "https://api.github.com/repos/hibye1405/Cloud-Downloads-3/releases/assets/444949204",
+      "id": 444949204,
+      "size": 16239,
+      "download_count": 0
+    }
+  ]
+}
